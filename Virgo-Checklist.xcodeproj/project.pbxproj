@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		990D4EE321C05D8800A1965B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 990D4EE221C05D8800A1965B /* AppDelegate.swift */; };
-		990D4EE521C05D8800A1965B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 990D4EE421C05D8800A1965B /* ViewController.swift */; };
+		990D4EE521C05D8800A1965B /* VirgoChecklistController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 990D4EE421C05D8800A1965B /* VirgoChecklistController.swift */; };
 		990D4EE821C05D8800A1965B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 990D4EE621C05D8800A1965B /* Main.storyboard */; };
 		990D4EEA21C05D8A00A1965B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 990D4EE921C05D8A00A1965B /* Assets.xcassets */; };
 		990D4EED21C05D8A00A1965B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 990D4EEB21C05D8A00A1965B /* LaunchScreen.storyboard */; };
@@ -17,7 +17,7 @@
 /* Begin PBXFileReference section */
 		990D4EDF21C05D8800A1965B /* Virgo-Checklist.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Virgo-Checklist.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		990D4EE221C05D8800A1965B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		990D4EE421C05D8800A1965B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		990D4EE421C05D8800A1965B /* VirgoChecklistController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VirgoChecklistController.swift; sourceTree = "<group>"; };
 		990D4EE721C05D8800A1965B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		990D4EE921C05D8A00A1965B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		990D4EEC21C05D8A00A1965B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -55,7 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				990D4EE221C05D8800A1965B /* AppDelegate.swift */,
-				990D4EE421C05D8800A1965B /* ViewController.swift */,
+				990D4EE421C05D8800A1965B /* VirgoChecklistController.swift */,
 				990D4EE621C05D8800A1965B /* Main.storyboard */,
 				990D4EE921C05D8A00A1965B /* Assets.xcassets */,
 				990D4EEB21C05D8A00A1965B /* LaunchScreen.storyboard */,
@@ -135,7 +135,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				990D4EE521C05D8800A1965B /* ViewController.swift in Sources */,
+				990D4EE521C05D8800A1965B /* VirgoChecklistController.swift in Sources */,
 				990D4EE321C05D8800A1965B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
